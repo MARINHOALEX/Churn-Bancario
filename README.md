@@ -10,6 +10,7 @@ Este projeto visa desenvolver um modelo preditivo para prevenir o churn (cancela
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- XGBoost
 - Jupyter Notebook
 
 ## Descrição do Projeto
